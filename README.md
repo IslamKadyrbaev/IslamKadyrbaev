@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Islam Kadyrbaev — Python Engineer, AI Architect, Bishkek" width="100%"/>
+<img src="assets/banner1.svg" alt="Islam Kadyrbaev — Python Engineer, AI Architect, Bishkek" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFD25E&center=true&vCenter=true&width=760&lines=I+don't+write+code.+I+build+empires+of+software.;Backend+%C2%B7+AI+%C2%B7+Automation;From+Bishkek+to+the+stars.;Ideas+in.+Products+out." alt="Typing SVG" />
